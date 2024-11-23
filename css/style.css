@@ -1,0 +1,13 @@
+.fs-80{
+    font-size: 80px;
+}
+.bg-blue{
+    background-color: blue;
+}
+button{
+    font-size: 13px;
+    padding: 30px 70px 30px 70px;
+}
+button:hover{
+    background-color: green;
+}
